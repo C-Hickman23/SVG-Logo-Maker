@@ -20,7 +20,7 @@ Must have node.js and npm
 
 ## Usage
 
-run node index.js in the root folder
+run _node index.js_ in the root folder
 
 ## License
 

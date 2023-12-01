@@ -1,17 +1,17 @@
 {
     "name": "svg-logo-maker",
     "version": "1.0.0",
-    "description": "Makes SVG Logos",
+    "description": "Makes SVG Logo",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "author": "Cardon Hickman",
     "license": "ISC",
-    "dependencies": {
-      "prompt-sync": "^4.2.0"
-    },
     "devDependencies": {
-      "jest": "^27.4.0"
+        "jest": "^27.4.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4"
     }
-  }
+}
