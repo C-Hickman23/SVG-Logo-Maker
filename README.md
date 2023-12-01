@@ -22,6 +22,10 @@ Must have node.js and npm
 
 run _node index.js_ in the root folder
 
+here is a demo:
+
+https://drive.google.com/file/d/1A3iRSajtF3wttANTJ3BlCd7ibIY4uTzU/view?usp=sharing
+
 ## License
 
 This project is licensed under the [MIT License]([License Details](https://opensource.org/licenses/MIT)).
